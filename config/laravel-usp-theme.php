@@ -45,9 +45,9 @@ $menu = [
         'key' => 'menu_dinamico',
     ],
     [
-        'text' => 'Drop Down',
-        'submenu' => $submenu2,
-        'can' => '',
+        'text' => 'Teste',
+        'url' => 'teste',
+        'can' => 'user',
     ],
     [
         'text' => 'Está logado',

@@ -10,7 +10,7 @@
 @endsection
 
 @section('skin_footer')
-    Seu código
+    {{-- Seu código --}}
 @endsection
 
 @section('javascripts_bottom')
